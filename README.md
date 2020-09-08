@@ -1,2 +1,2 @@
-# SalaryPrediction-Portfolio
-Salary Prediction Project(Python)
+# IBM HR Analytics Portfolio
+HR Analytics Project(Python)
